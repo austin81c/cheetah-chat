@@ -1,4 +1,10 @@
-# cheetah-chat
-talking cheetah named greg encourages you to speak loudly at your peers.
-=
-C++
+# Cheetah Chat
+
+## Overview
+A P2P chat service written in C++. More to come
+
+## Build
+
+## Usage
+
+## FAQs

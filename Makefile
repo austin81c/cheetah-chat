@@ -1,4 +1,4 @@
 all:
-	g++ client.cpp -std=c++11 -o client
+	g++ client.cpp -Wall -Werror -Wextra -ansi -std=c++11 -o client
 clean:
 	rm client

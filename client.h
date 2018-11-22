@@ -11,4 +11,10 @@
 
 #define PORT 10000
 
+//Display usage
+int usage();
+
+//Run server
+void start_server();
+
 #endif
